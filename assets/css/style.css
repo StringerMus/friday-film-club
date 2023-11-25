@@ -27,7 +27,6 @@ header {
     display: flex;
     align-items: baseline;
     position: fixed;
-    position: absolute;
     justify-content: space-between;
     z-index: 99;
 }
@@ -45,7 +44,7 @@ h1 .fa-solid {
 #logo {
     font-family: "Archivo Black", sans-serif;
     color: white;
-    font-size: 23px;
+    font-size: 20px;
 }
 
 /*logo icon*/
@@ -90,7 +89,20 @@ nav {
 }
 
 .active {
-    border-bottom: 2px solid coral;
+    border-bottom: 2px solid rgb(255, 0, 89)l;
+}
+
+/*Main Content*/
+main {
+
+}
+
+/*Hero Image*/
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("..images/jc-gellidon-qGbo4o77NaM-unsplash.jpg");
+    position: relative;
 }
 
 /*footer*/
@@ -112,5 +124,51 @@ footer {
 }
 
 #footer i:hover {
-    color: coral;
+    color: rgb(255, 0, 89);
+}
+
+
+
+/*Media query: tablets and larger (768px and up)*/
+@media screen and (min-width:768px) {
+    nav {
+        display: block;
+            position: relative;
+            width: fit-content;
+            padding-right: 1rem;
+    }
+
+    #topnav {
+        display:flex;
+    }
+
+    #topnav li {
+        padding-left: 2rem;
+        font-size: 16px;
+        color: white;
+        text-decoration: none;
+        }
+
+    .burgermenu-label {
+        display: none;
+    }
+
+    #logo{
+        font-size: 180%;
+        line-height: 50px;
+        margin: 0 1rem;
+    }
+
+    
+
+}
+
+
+
+/*Large devices ( laptops and desktops 992px and up)*/
+@media screen and (min-width:992px) {
+
+
+
+@media screen and (min-width:1200px) {
 }
