@@ -1,14 +1,39 @@
+
+/*to override default browswer styles*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*General styles*/
+h1, h2, h3 {
+        font-family: "Merriweather Sans", sans-serif;
+        color: white;
+    }
+    
+body {
+    font-family: "Roboto Flex", sans-serif;
+    color: white;
+}
+
 /*Top Banner*/
 /*Header*/
 header {
     /*Make background transparrent with dark gradient*/
     background-color: #242424;
-    padding: 0 5;
+    padding: 20px 1rem;
     width: 100%;
     display: flex;
     align-items: baseline;
+    position: fixed;
     position: absolute;
     justify-content: space-between;
+    z-index: 99;
+}
+
+header a {
+    text-decoration: none;
 }
 
 /*Text Logo*/
@@ -20,11 +45,11 @@ h1 .fa-solid {
 #logo {
     font-family: "Archivo Black", sans-serif;
     color: white;
+    font-size: 23px;
 }
 
 /*logo icon*/
 .fa-solid {
-    padding-right: 2px;
     color: rgb(255, 0, 89);
 }
 
@@ -53,23 +78,24 @@ nav {
     font-size: 1.5rem;
 }
 
-.topnav {
-    font-size: 110%;
-    letter-spacing: 4px;
+#topnav {
+    color:white;
+    font-size: 90%;
+    letter-spacing: 1px;
     list-style-type: none;
 }
 
-.topnav>li {
-    margin-bottom: 1em;
+#topnav>li {
+    margin-bottom: 0.8em;
 }
 
 .active {
-    border-bottom: 1px solid coral;
+    border-bottom: 2px solid coral;
 }
 
 /*footer*/
 footer {
-    background-color: black;
+    background-color: #242424;
 }
 
 #footer{
