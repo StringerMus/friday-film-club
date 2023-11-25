@@ -1,0 +1,65 @@
+/*Top Banner*/
+/*Header*/
+header {
+    /*Make background transparrent with dark gradient*/
+    background-color: #242424;
+    padding: 0 5;
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+    position: absolute;
+    justify-content: space-between;
+}
+
+/*Text Logo*/
+h1 .fa-solid {
+    size: 5px;
+    padding: 3px;
+}
+
+#logo {
+    font-family: "Archivo Black", sans-serif;
+    color: white;
+}
+
+/*logo icon*/
+.fa-solid {
+    padding-right: 2px;
+    color: rgb(255, 0, 89);
+}
+
+/*Navigation*/
+nav {
+    overflow:hidden;
+    background-color: rgba(42, 42, 42, 0.827);
+    position:absolute;
+    width:30%;
+    right:0;
+    padding: 0 0.5rem;
+    box-shadow: 4px 4px 4px #101010;
+
+}
+
+
+
+/*footer*/
+footer {
+    background-color: black;
+}
+
+#footer{
+    padding: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#footer i {
+    font-size: 30px;
+    color: white;
+}
+
+#footer i:hover {
+    color: coral;
+}
