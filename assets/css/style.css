@@ -30,17 +30,42 @@ h1 .fa-solid {
 
 /*Navigation*/
 nav {
-    overflow:hidden;
-    background-color: rgba(42, 42, 42, 0.827);
+    background-color: #242424;
     position:absolute;
-    width:30%;
+    width:25%;
     right:0;
     padding: 0 0.5rem;
-    box-shadow: 4px 4px 4px #101010;
-
+    box-shadow: -3px 3px 3px 3px rgba(42, 42, 42, 0.141);
+    display: none;
+    top:50%;
 }
 
+/*Burgermenu*/
+#burgermenu:checked~nav {
+    display: block;
+}
 
+#burgermenu{
+    display:none;
+}
+
+.burgermenu-label {
+    font-size: 1.5rem;
+}
+
+.topnav {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+.topnav>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid coral;
+}
 
 /*footer*/
 footer {
