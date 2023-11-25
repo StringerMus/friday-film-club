@@ -98,12 +98,12 @@ main {
 }
 
 /*Hero Image*/
-#hero {
-    height: 600px;
-    width: 100%;
-    background: url("..images/jc-gellidon-qGbo4o77NaM-unsplash.jpg");
-    position: relative;
-}
+#hero-image{
+    background-size: contain;
+    background: url(../images/hero2.jpg) no-repeat center center;
+    background-size: 100%;
+    padding-top: 90%;
+    }
 
 /*footer*/
 footer {
@@ -158,8 +158,6 @@ footer {
         line-height: 50px;
         margin: 0 1rem;
     }
-
-    
 
 }
 
