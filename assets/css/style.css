@@ -98,15 +98,37 @@ main {
 
 /*Hero Image*/
 #hero-image{
-    background-size: contain;
+    height: 320px;
     background: url(../images/hero2.jpg) no-repeat center center;
-    background-size: 100%;
-    padding-top: 90%;
-    position: relative;
+    background-size: 200%;
+    padding:0;
+    z-index: -1;
     }
 
 #cover-text {
-    
+    font-size:17px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 160px;
+}
+
+#cover-text h2 {
+    color: #fff3d9;
+    text-shadow: 2px 3px 5px #000000;
+}
+
+#cover-text button {
+    background-color: rgb(255, 0, 89);
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    box-shadow: 2px 3px 5px #000000;
 }
 
 /*footer*/
