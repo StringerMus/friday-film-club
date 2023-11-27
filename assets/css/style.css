@@ -26,7 +26,7 @@ body {
 /*Header*/
 header {
     /*Make background transparrent with dark gradient*/
-    background-color: #242424d4;
+    background-color: #242424cc;
     box-shadow: 1px 15px 15px 4px #0000007e;
     padding: 20px 1rem;
     width: 100%;
@@ -65,6 +65,7 @@ nav {
     width:20%;
     right:0;
     padding: 0 0.5rem;
+    text-align: center
     display: none;
     top:100%;
 }
@@ -145,7 +146,7 @@ main {
     width:100%;
     background-color: #242424;
     text-align: center;
-    height: 600px;
+    height: 750px;
 }
 
 #theclub {
@@ -158,15 +159,19 @@ main {
     
 }
 
-#why p {
+#theclub p {
     font-size: 80%;
 }
 
 /*Easy steps*/
+#easysteps {
+    padding-top: 10%;
+}
+
 #easysteps h2 {
     font-size: 150%;
     color: white;
-    padding: 10% 10%;
+    padding: 5% 25%;
 }
 
 #easysteps p {
@@ -207,11 +212,11 @@ main {
 
 /*footer*/
 footer {
-    background-color: #242424;
+    background-color: #ffffff;
 }
 
 #footer{
-    padding: 10px 0;
+    padding: 20px 0;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -219,8 +224,8 @@ footer {
 }
 
 #footer i {
-    font-size: 30px;
-    color: white;
+    font-size: 35px;
+    color: #242424;
 }
 
 #footer i:hover {
@@ -279,14 +284,49 @@ footer {
         padding: 5px 10px;
         font-size: 19px;
     }
+
+    /*Join Us Section*/
+    #why {
+        height: 1000px;
+    }
+
+    /*The Club*/
+    #theclub{
+        font-size: 135%;
+        padding: 0 20%;
+        padding-top: 11%;
+    }
+
+    /*Easy Steps*/
+    #easysteps{
+        font-size: 135%;
+    }
+
+
 }
 
 
 
 /*Large devices ( laptops and desktops 992px and up)*/
 @media screen and (min-width:992px) {
+    /*Join Us Section*/
+        #why {
+            height: 1200px;
+        }
+    
+        /*The Club*/
+        #theclub {
+            font-size: 135%;
+            padding: 0 18%;
+            padding-top: 8%;
+        }
+}
 
 
 
 @media screen and (min-width:1200px) {
+    /*Join Us Section*/
+        #why {
+            height: 1200px;
+        }
 }
