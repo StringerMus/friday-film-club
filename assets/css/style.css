@@ -12,7 +12,7 @@ body {
     flex-direction: column;
 }
 
-h1, h2, h3 {
+h1, h2, h3 h4{
     font-family: "Merriweather Sans", sans-serif;
     color: white;
     }
@@ -149,54 +149,60 @@ main {
 }
 
 #theclub {
-    padding: 20px;
+    padding: 10% 18%;
 }
 
 #why h2{
-    font-size: 20px;
+    font-size: 180%;
     color:rgb(255, 216, 110);
     
 }
 
 #why p {
-    font-size: 12px;
+    font-size: 80%;
 }
 
-#easysteps {
-    padding-top: 50px;
+/*Easy steps*/
+#easysteps h2 {
+    font-size: 150%;
+    color: white;
+    padding: 10% 10%;
 }
 
-#easysteps h3 {
-    font-size: 25px;
+#easysteps p {
+    font-size: 100%;
+    font-weight: 700;
+    text-transform: uppercase;
 }
+
 
 /*Add Icons?*/
 #step1 {
     display: flex;
-    flex-wrap: wrap;
-    align-items:baseline;
+    flex-wrap: nowrap;
+    justify-content: center;
     gap: 0 0.5rem;
-    padding-top: 7%;
-    padding-left: 10%;
+    padding: 7% 17%;
+    text-align: center;
 }
 
 #step2 {
     display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: center;
     gap: 0 0.5rem;
-    padding-top: 5%;
-    padding-right: 10%;
+    padding: 7% 17%;
+    text-align: center;
 }
 
 #step3 {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: baseline;
+    justify-content: center;
     gap: 0 0.5rem;
-    padding-top: 5%;
-    padding-left: 10%;
+    padding: 7% 17%;
+    text-align: center;
 }
 
 /*footer*/
