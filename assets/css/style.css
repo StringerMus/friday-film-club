@@ -61,7 +61,6 @@ h1 .fa-solid {
 /*Navigation*/
 nav {
     background-color: #ffffffb0;
-    box-shadow: 1px 15px 15px 4px #0000007e;
     position:absolute;
     width:20%;
     right:0;
@@ -105,7 +104,7 @@ main {
 
 /*Hero Image*/
 #hero-image{
-    height: 320px;
+    height: 280px;
     background: url(../images/hero2.jpg) no-repeat center center/cover;
     background-size: 150%;
     padding:0;
@@ -121,7 +120,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 160px;
+    padding-top: 130px;
 }
 
 #cover-text h2 {
@@ -139,6 +138,65 @@ main {
     display: inline-block;
     font-size: 12px;
     box-shadow: 2px 3px 5px #000000;
+}
+
+/*The Club*/
+#why{
+    width:100%;
+    background-color: #242424;
+    text-align: center;
+    height: 600px;
+}
+
+#theclub {
+    padding: 20px;
+}
+
+#why h2{
+    font-size: 20px;
+    color:rgb(255, 216, 110);
+    
+}
+
+#why p {
+    font-size: 12px;
+}
+
+#easysteps {
+    padding-top: 50px;
+}
+
+#easysteps h3 {
+    font-size: 25px;
+}
+
+/*Add Icons?*/
+#step1 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items:baseline;
+    gap: 0 0.5rem;
+    padding-top: 7%;
+    padding-left: 10%;
+}
+
+#step2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    flex-direction: row-reverse;
+    gap: 0 0.5rem;
+    padding-top: 5%;
+    padding-right: 10%;
+}
+
+#step3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.5rem;
+    padding-top: 5%;
+    padding-left: 10%;
 }
 
 /*footer*/
@@ -182,7 +240,8 @@ footer {
     #topnav li {
         padding-left: 2rem;
         font-size: 16px;
-        color: white;
+        color: black;
+        text-decoration: none;
         }
 
     .burgermenu-label {
