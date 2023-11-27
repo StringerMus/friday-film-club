@@ -26,7 +26,8 @@ body {
 /*Header*/
 header {
     /*Make background transparrent with dark gradient*/
-    background-color: #242424;
+    background-color: #242424d4;
+    box-shadow: 1px 15px 15px 4px #0000007e;
     padding: 20px 1rem;
     width: 100%;
     display: flex;
@@ -59,7 +60,8 @@ h1 .fa-solid {
 
 /*Navigation*/
 nav {
-    background-color: #242424;
+    background-color: #ffffffb0;
+    box-shadow: 1px 15px 15px 4px #0000007e;
     position:absolute;
     width:20%;
     right:0;
@@ -104,7 +106,7 @@ main {
 /*Hero Image*/
 #hero-image{
     height: 320px;
-    background: url(../images/hero2.jpg) no-repeat center center/cover ;
+    background: url(../images/hero2.jpg) no-repeat center center/cover;
     background-size: 150%;
     padding:0;
     z-index: -1;
@@ -170,6 +172,7 @@ footer {
             position: relative;
             width: fit-content;
             padding-right: 1rem;
+            background-color: #24242400;
     }
 
     #topnav {
