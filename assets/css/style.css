@@ -65,7 +65,7 @@ nav {
     width:20%;
     right:0;
     padding: 0 0.5rem;
-    text-align: center
+    text-align: center;
     display: none;
     top:100%;
 }
@@ -75,7 +75,7 @@ nav {
     display: block;
 }
 
-#burgermenu{
+#burgermenu {
     display:none;
 }
 
@@ -96,6 +96,11 @@ nav {
 
 .active {
     border-bottom: 2px solid rgb(255, 0, 89);
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
 }
 
 /*Main Content*/
@@ -146,7 +151,6 @@ main {
     width:100%;
     background-color: #242424;
     text-align: center;
-    height: 750px;
 }
 
 #theclub {
@@ -171,7 +175,7 @@ main {
 #easysteps h2 {
     font-size: 150%;
     color: white;
-    padding: 5% 25%;
+    padding: 10px 25px;
 }
 
 #easysteps p {
@@ -187,7 +191,7 @@ main {
     flex-wrap: nowrap;
     justify-content: center;
     gap: 0 0.5rem;
-    padding: 7% 17%;
+    padding: 20px 40px;
     text-align: center;
 }
 
@@ -196,7 +200,7 @@ main {
     flex-wrap: nowrap;
     justify-content: center;
     gap: 0 0.5rem;
-    padding: 7% 17%;
+    padding: 20px 40px;
     text-align: center;
 }
 
@@ -206,8 +210,39 @@ main {
     align-items: baseline;
     justify-content: center;
     gap: 0 0.5rem;
-    padding: 7% 17%;
+    padding: 20px 40px;
+    padding-bottom: 30px;
     text-align: center;
+}
+
+#button {
+    background-color: rgb(255, 0, 89);
+    border-radius: 10%;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    box-shadow: 2px 3px 5px #000000;
+}
+
+#meeting{
+    background-color: #242424;
+    padding: 5px 10px;
+    text-align: center;
+    font-size: 15px;
+    padding: 50px 10px;
+}
+
+#meeting h2 {
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+#meeting p {
+    font-size: 12px;
 }
 
 /*footer*/
@@ -232,16 +267,14 @@ footer {
     color: rgb(255, 0, 89);
 }
 
-
-
 /*Media query: tablets and larger (768px and up)*/
 @media screen and (min-width:768px) {
     nav {
         display: block;
-            position: relative;
-            width: fit-content;
-            padding-right: 1rem;
-            background-color: #24242400;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+        background-color: #24242400;
     }
 
     #topnav {
@@ -292,17 +325,54 @@ footer {
 
     /*The Club*/
     #theclub{
-        font-size: 135%;
-        padding: 0 20%;
-        padding-top: 11%;
+        font-size: 25px;
+        padding: 0 120px;
+        padding-top: 70px;
     }
 
     /*Easy Steps*/
     #easysteps{
-        font-size: 135%;
+        font-size: 25px;
     }
 
+    #easysteps h2{
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
 
+    #step1 {
+        padding: 30px 200px;
+    }
+    
+    #step2 {
+        padding: 30px 200px;
+    }
+    
+    #step3 {
+        padding: 0 200px;
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+    
+    #button {
+        padding: 10px 20px;
+        font-size: 20px;
+    }
+
+    #meeting{
+        padding-top:0;
+        padding-bottom: 50px;
+        font-size: 100px;
+    }
+    
+    #meeting h2{
+        font-size: 27px;
+        padding-bottom:16px;
+    }
+    
+    #meeting p {
+        font-size: 18px;
+    }
 }
 
 
@@ -310,16 +380,13 @@ footer {
 /*Large devices ( laptops and desktops 992px and up)*/
 @media screen and (min-width:992px) {
     /*Join Us Section*/
-        #why {
-            height: 1200px;
-        }
     
-        /*The Club*/
-        #theclub {
-            font-size: 135%;
-            padding: 0 18%;
-            padding-top: 8%;
-        }
+    /*The Club*/
+    #theclub {
+        font-size: 135%;
+        padding: 0 18%;
+        padding-top: 8%;
+    }
 }
 
 
@@ -330,3 +397,6 @@ footer {
             height: 1200px;
         }
 }
+
+
+
