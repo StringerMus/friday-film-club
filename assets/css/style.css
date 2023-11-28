@@ -400,6 +400,32 @@ footer {
         font-size: 20px;
         padding-bottom: 25px;
     }
+
+    /*Film page*/
+    #film-img h3 {
+        font-size:25px;
+        padding-top: 120px;
+        padding-left: 30px;
+        padding-right: 40px;
+        text-decoration: underline;
+    }
+
+    #film-img h2 {
+        padding-left: 30px;
+        padding-right: 40px;
+        font-size: 25px;
+    }
+
+    #film-img p {
+        background-color: #000000bb;
+        padding-right: 30px;
+        text-align: right;
+        font-size: 13px;
+        letter-spacing: 0.4px;
+        position: absolute;
+        bottom: 80px;
+        right: 0;
+    }
 }
 
 
@@ -427,6 +453,36 @@ footer {
     #meeting p {
         font-size: 25px;
     }
+
+    #film-img{
+        height:640px;
+    }
+
+    /*Film page*/
+    #film-img h3 {
+        font-size: 30px;
+        padding-top: 150px;
+        padding-left: 55px;
+        padding-right: 55px;
+        text-decoration: underline;
+    }
+
+    #film-img h2 {
+        padding-left: 55px;
+        padding-right: 55px;
+        font-size: 30px;
+    }
+
+    #film-img p {
+        background-color: #000000bb;
+        padding-right: 40px;
+        text-align: right;
+        font-size: 15px;
+        letter-spacing: 0.8px;
+        position: absolute;
+        bottom: 120px;
+        right: 0;
+    }
 }
 
 
@@ -447,6 +503,11 @@ footer {
 
     #meeting{
         padding: 95px 0;
+    }
+
+    #film-img{
+        height:100%;
+
     }
 }
 
