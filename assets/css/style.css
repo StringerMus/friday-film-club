@@ -184,7 +184,6 @@ main {
     text-transform: uppercase;
 }
 
-
 /*Add Icons?*/
 #step1 {
     display: flex;
@@ -383,7 +382,7 @@ footer {
     
     /*The Club*/
     #theclub {
-        font-size: 135%;
+        font-size: 24px;
         padding: 0 18%;
         padding-top: 8%;
     }
@@ -392,10 +391,18 @@ footer {
 
 
 @media screen and (min-width:1200px) {
-    /*Join Us Section*/
-        #why {
-            height: 1200px;
-        }
+    #theclub{
+        font-size: 30px;
+    }
+
+    #easysteps{
+        padding-bottom: 0;
+    }
+
+    #meeting{
+        padding: 95px 0;
+        font-size: 20px;
+    }
 }
 
 
