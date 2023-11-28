@@ -241,7 +241,36 @@ nav {
 }
 
 /*Film Page*/
+#film-img{
+    background: url("../images/film-img.jpg") no-repeat center/cover;
+    width: 100%;
+    height:500px;
+}
 
+#film-img h3 {
+    padding-top: 90px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+
+#film-img h2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+#film-img p {
+    background-color: #000000bb;
+    padding: 10px 15px;
+    text-align: right;
+    font-size: 10px;
+    letter-spacing: 0.1px;
+    position: absolute;
+    bottom: 170px;
+    right: 0;
+}
 
 /*footer*/
 footer {
