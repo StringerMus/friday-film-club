@@ -104,14 +104,10 @@ nav {
 }
 
 /*Main Content*/
-main {
-
-}
-
 /*Hero Image*/
 #hero-image{
     height: 280px;
-    background: url(../images/hero2.jpg) no-repeat center center/cover;
+    background: url(../images/hero-img.jpg) no-repeat center center/cover;
     background-size: 150%;
     padding:0;
     z-index: -1;
@@ -231,7 +227,7 @@ main {
     background-color: #242424;
     padding: 5px 10px;
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
     padding: 50px 10px;
 }
 
@@ -243,6 +239,9 @@ main {
 #meeting p {
     font-size: 12px;
 }
+
+/*Film Page*/
+
 
 /*footer*/
 footer {
@@ -307,9 +306,8 @@ footer {
     }
 
     #cover-text {
-        padding: 8%;
         font-size: 30px;
-        padding-top: 250px;
+        padding-top: 200px;
     }
     
     #cover-text button {
@@ -365,12 +363,13 @@ footer {
     }
     
     #meeting h2{
-        font-size: 27px;
+        font-size: 30px;
         padding-bottom:16px;
     }
     
     #meeting p {
-        font-size: 18px;
+        font-size: 20px;
+        padding-bottom: 25px;
     }
 }
 
@@ -378,19 +377,37 @@ footer {
 
 /*Large devices ( laptops and desktops 992px and up)*/
 @media screen and (min-width:992px) {
-    /*Join Us Section*/
+    /*Hero Cover Text*/
+    #cover-text {
+        font-size: 40px;
+        padding-top: 250px;
+        }
     
+    /*Join Us Section*/
     /*The Club*/
     #theclub {
         font-size: 24px;
         padding: 0 18%;
         padding-top: 8%;
     }
+    
+    #meeting h2 {
+        font-size: 35px;
+    }
+    
+    #meeting p {
+        font-size: 25px;
+    }
 }
 
 
 
 @media screen and (min-width:1200px) {
+    #cover-text {
+        font-size: 40px;
+        padding-top: 250px;
+    }
+
     #theclub{
         font-size: 30px;
     }
@@ -401,7 +418,6 @@ footer {
 
     #meeting{
         padding: 95px 0;
-        font-size: 20px;
     }
 }
 
