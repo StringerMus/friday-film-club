@@ -280,17 +280,21 @@ nav {
     text-shadow: 2px 3px 5px #000000;
 }
 
+#about-bg p {
+    font-size: 10px;
+}
+
 #who h2 {
     padding-top: 110px;
     padding-left: 20px;
     padding-right: 20px;
-    font-size: 20px;
+    font-size: 20px 1rem;
     text-align: center;
 }
 
 #who p {
     padding: 10px 50px;
-    font-size: 12px;
+    font-size: 0.8rem;
     text-align: center;
     letter-spacing: 0.1px;
 }
@@ -301,13 +305,13 @@ nav {
 }
 
 #meet h2{
-    font-size: 20px;
+    font-size: 20px 1rem;
     text-align: center;
     padding-bottom:10px;
 }
 
 #meet p {
-    font-size: 12px;
+    font-size: 0.8rem;
     letter-spacing: 0.1px;
 }
 
@@ -319,12 +323,12 @@ nav {
 }
 
 #newsletter h2 {
-    font-size: 20px;
+    font-size: 20px 1rem;
     padding-bottom: 10px;
 }
 
 #newsletter p {
-    font-size: 12px;
+    font-size: 0.8rem;
     letter-spacing: 0.1px;
     padding-bottom: 10px;
 }
@@ -348,7 +352,7 @@ label {
     margin-top: 20px;
     background-color:rgb(255, 0, 89);
     color:white;
-    font-size:12px;
+    font-size:0.8rem;
     padding:8px 8px;
 }
 
@@ -506,6 +510,28 @@ footer {
         bottom: 80px;
         right: 0;
     }
+
+    /*About Page*/
+    #who h2 {
+        padding-top: 150px;
+        font-size: 30px 1rem;
+        }
+
+    #who p {
+        padding: 30px 200px;
+        font-size: 1rem;
+        letter-spacing: 0.6px;
+        }
+
+    #meet h2{
+        font-size: 30px 1rem;
+        padding-bottom:1rem;
+        }
+
+    #meet p {
+        font-size: 1rem;
+        letter-spacing: 0.6px;
+    }
 }
 
 /*Large devices ( laptops and desktops 992px and up)*/
@@ -561,6 +587,28 @@ footer {
         bottom: 120px;
         right: 0;
     }
+
+    /*About Page*/
+    #who h2 {
+        padding-top: 150px;
+        font-size: 30px 1rem;
+        }
+
+    #who p {
+        padding: 30px 200px;
+        font-size: 1rem;
+        letter-spacing: 0.6px;
+        }
+
+    #meet h2{
+        font-size: 30px 1rem;
+        padding-bottom:1rem;
+        }
+
+    #meet p {
+        font-size: 1rem;
+        letter-spacing: 0.6px;
+    }
 }
 
 
@@ -586,6 +634,34 @@ footer {
     #film-img{
         height:750px;
 
+    }
+
+    /*About*/
+
+    #who{
+        vertical-align:top;
+        width:50%;
+        padding: 0;
+    }
+
+    #meet{
+        display: inline-block;
+        background-color: white;
+        margin: 30px 10px;
+        color: black;
+        width:50%;
+        }
+
+    #meet h3 p{
+        color: black;
+        }
+
+    #newsletter {
+        display: inline-block;
+        position: absolute;
+        max-width: 600px;
+        top: 150px;
+        right: 10%;
     }
 }
 
