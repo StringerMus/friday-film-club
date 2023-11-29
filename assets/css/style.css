@@ -272,6 +272,30 @@ nav {
     right: 0;
 }
 
+/*About Page*/
+
+#about-bg {
+    background: url("../images/about-img.jpg") no-repeat center/cover;
+    width:100%;
+    height:500px;
+}
+
+#about-bg h2 {
+    padding-top: 120px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#about-bg p {
+    padding: 20px 50px;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0.1px;
+}
+
+
 /*footer*/
 footer {
     background-color: #ffffff;
@@ -427,8 +451,6 @@ footer {
         right: 0;
     }
 }
-
-
 
 /*Large devices ( laptops and desktops 992px and up)*/
 @media screen and (min-width:992px) {
