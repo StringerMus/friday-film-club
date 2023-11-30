@@ -320,6 +320,7 @@ nav {
     padding:30px 20px;
     text-align:center;
     flex-grow:1;
+    box-shadow: 5px 5px 10px #000000;
 }
 
 #newsletter h2 {
@@ -644,24 +645,68 @@ footer {
         padding: 0;
     }
 
+    #who h2 {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 35px;
+    }
+
+    #who p {
+        padding: 20px 90px;
+        letter-spacing: 0.7px;
+        padding-bottom:0px;
+    }
+
     #meet{
         display: inline-block;
-        background-color: white;
-        margin: 30px 10px;
-        color: black;
         width:50%;
         }
+        
+    #meet h2{
+        font-size: 35px;
+        padding-top: 0px;
+        padding-bottom:20px;
+    }
 
-    #meet h3 p{
-        color: black;
-        }
+    #meet p {
+        font-size: 16px;
+        letter-spacing: 0.7px;
+    }
 
     #newsletter {
+        margin-top:20px;
         display: inline-block;
         position: absolute;
-        max-width: 600px;
         top: 150px;
-        right: 10%;
+        width:40%;
+        float: right;
+    }
+    
+    #newsletter h2 {
+        padding-top:20px;
+        font-size: 35px;
+        padding-bottom: 20px;
+    }
+    
+    #newsletter p {
+        font-size: 16px;
+        letter-spacing: 0.7px;
+        padding-bottom: 40px;
+    }
+
+    #form{
+        font-size: 16px;
+    }
+
+    #form input {
+        margin-bottom: 12px;
+    }
+
+    .news-button{
+        margin-top: 40px;
+        font-size: 16px;
+        padding:8px 8px;
+        margin-bottom: 20px;
     }
 }
 
