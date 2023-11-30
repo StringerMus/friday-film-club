@@ -60,7 +60,7 @@ h1 .fa-solid {
 
 /*Navigation*/
 nav {
-    background-color: #ffffffb0;
+    background-color: #242424b0;
     position:absolute;
     width:20%;
     right:0;
@@ -132,32 +132,20 @@ nav {
     .text-shadow: 2px 3px 5px #000000;
 }
 
-#cover-text button {
-    background-color: rgb(255, 0, 89);
-    border: none;
-    color: white;
-    margin-top:10px;
-    padding: 5px 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 12px;
-    box-shadow: 2px 3px 5px #000000;
-}
-
 /*The Club*/
 #why{
     width:100%;
-    background-color: white;
+    background-color: #242424;
     text-align: center;
 }
 
 #why h2{
     font-size: 180%;
-    color:#242424; 
+    color:#242424;
 }
 
 #theclub {
+    background-color: white;
     align: center;
     padding: 32px 40px;
 }
@@ -223,14 +211,15 @@ nav {
 
 #button {
     background-color: rgb(255, 0, 89);
-    border-radius: 10%;
     border: none;
+    border-radius: 5%;
     color: white;
-    padding: 5px 15px;
+    margin-top:10px;
+    padding: 5px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 15px;
+    font-size: 14px;
     box-shadow: 2px 3px 5px #000000;
 }
 
@@ -436,9 +425,9 @@ footer {
         height: 92vh;   
     }
 
-    #cover-text {
-        font-size: 30px;
-        padding-top: 200px;
+    #cover-text h2 {
+        font-size: 70px;
+        padding-top: 100px;
     }
     
     #cover-text button {
@@ -458,13 +447,19 @@ footer {
         padding-top: 70px;
     }
 
+    #theclub i {
+        padding-top: 30px;
+        padding-bottom: 40px;
+        font-size: 40px;
+    }
+
     /*Easy Steps*/
     #easysteps{
         font-size: 25px;
     }
 
     #easysteps h2{
-        padding-top: 70px;
+        padding-top: 5px;
         padding-bottom: 40px;
     }
 
@@ -486,21 +481,21 @@ footer {
         padding: 10px 20px;
         font-size: 20px;
     }
-
-    #meeting{
-        padding-top:0;
-        padding-bottom: 50px;
-        font-size: 100px;
-    }
     
     #meeting h2{
         font-size: 30px;
+        padding-top:60px;
         padding-bottom:16px;
     }
     
     #meeting p {
         font-size: 20px;
-        padding-bottom: 25px;
+        padding-bottom:20px;
+    }
+
+    #meeting i {
+        padding-bottom:20px;
+        font-size:40px;
     }
 
     /*Film page*/
@@ -632,9 +627,20 @@ footer {
 
 
 @media screen and (min-width:1200px) {
+    #hero-image{
+        bottom:0px;
+        height:650px;
+    }
+
     #cover-text {
-        font-size: 40px;
-        padding-top: 250px;
+        font-size: 100px;
+        padding-top: 220px;
+        padding-bottom:0;
+    }
+
+    #cover-text button {
+        font-size:25px;
+        padding: 10px 10px;
     }
 
     #theclub{
