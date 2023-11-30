@@ -126,7 +126,7 @@ nav {
 }
 
 #cover-text h2 {
-    font-size: 32px;
+    font-size: 28px;
     color: white;
     letter-spacing: 0.5px;
     .text-shadow: 2px 3px 5px #000000;
@@ -250,7 +250,7 @@ nav {
 #film-img{
     background: url("../images/film-img.jpg") no-repeat center/cover;
     width: 100%;
-    height:500px;
+    height:580px;
 }
 
 #film-img h3 {
@@ -313,12 +313,28 @@ nav {
 #meet h2{
     font-size: 20px 1rem;
     text-align: center;
-    padding-bottom:10px;
+    padding-bottom:20px;
+}
+
+#meet h4 {
+    font-size: 15px;
+    paddiing-top: 500px;
 }
 
 #meet p {
-    font-size: 0.8rem;
+    color: black;
+    background-color: white;
+    font-size: 12px;
     letter-spacing: 0.1px;
+    text-shadow:none;
+    padding: 5px 0px;
+    margin: 0 20px;
+}
+
+#meet i {
+    font-size: 30px;
+    padding-top: 20px;
+    color:white;
 }
 
 #newsletter {
@@ -562,6 +578,10 @@ footer {
         padding: 0 18%;
         padding-top: 8%;
     }
+
+    #easysteps{
+        padding-bottom: 0;
+    }
     
     #meeting h2 {
         font-size: 35px;
@@ -644,11 +664,8 @@ footer {
     }
 
     #theclub{
+        padding-top:50px;
         font-size: 30px;
-    }
-
-    #easysteps{
-        padding-bottom: 0;
     }
 
     #meeting{
