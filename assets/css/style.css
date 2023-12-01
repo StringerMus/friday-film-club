@@ -511,9 +511,8 @@ footer {
     
     #next {
         padding-top: 30px;
-        padding-bottom: 20px;
+        padding-bottom: 200px;
         font-size: 20px;
-        text-transform: none;
     }
 
     /*Meeting Place*/
@@ -637,13 +636,17 @@ footer {
 
     /*easysteps*/
     #easysteps{
-        padding-bottom: 0;
+        padding-bottom: 30px;
     }
 
     #next {
-        padding-top: 40px;
+        padding-top: 35px;
         padding-bottom: 40px;
         font-size: 25px;
+    }
+
+    #next p {
+        padding-bottom: 50px;
     }
     
     /*Meeting*/
@@ -763,7 +766,15 @@ footer {
 
     #theclub{
         padding-top:50px;
-        font-size: 30px;
+        font-size: 300px;
+    }
+
+    #easysteps{
+        padding-bottom:30px;
+    }
+
+    #next{
+        padding-top:30px;
     }
 
     #meeting{
@@ -772,7 +783,6 @@ footer {
 
     #film-img{
         height:750px;
-
     }
 
     /*About*/
