@@ -110,9 +110,13 @@ nav {
     background: url(../images/hero-img.jpg) no-repeat center center/cover;
     background-size: 150%;
     padding:0;
-    z-index: -1;
     position:relative;
     }
+
+.join-link {
+    text-decoration: none;
+    color: white;
+ }
 
 #cover-text {
     text-align: center;
@@ -129,7 +133,6 @@ nav {
     font-size: 28px;
     color: white;
     letter-spacing: 0.5px;
-    .text-shadow: 2px 3px 5px #000000;
 }
 
 /*The Club*/
@@ -287,7 +290,6 @@ nav {
 }
 
 /*About Page*/
-
 #about-bg {
     background: url("../images/about-img.jpg") no-repeat center/cover;
     width:100%;
@@ -766,27 +768,24 @@ footer {
 
     #theclub{
         padding-top:50px;
-        font-size: 300px;
+        font-size: 30px;
     }
 
     #easysteps{
-        padding-bottom:30px;
-    }
-
-    #next{
-        padding-top:30px;
+        padding-bottom:0px;
     }
 
     #meeting{
         padding: 95px 0;
     }
 
+    /*Film*/
     #film-img{
-        height:750px;
+       height:750px;
+
     }
 
     /*About*/
-
     #who{
         vertical-align:top;
         width:50%;
