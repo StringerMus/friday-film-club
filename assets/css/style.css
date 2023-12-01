@@ -285,7 +285,7 @@ nav {
     font-size: 10px;
     letter-spacing: 0.1px;
     position: absolute;
-    bottom: 170px;
+    bottom: 100px;
     right: 0;
 }
 
@@ -857,5 +857,10 @@ footer {
     }
 }
 
-
+/*S Mobile (320px and up)*/
+@media screen and (min-width:320px) {
+    #film-img p {
+        bottom: 40px;
+    }
+}
 
