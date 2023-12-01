@@ -1,40 +1,29 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Friday Film Club
 
-Welcome,
+[Friday Film Club] (https://stringermus.github.io/friday-film-club/)
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[# Friday Film Club
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Friday Film Club is for the film enthusiasts and those who want to discuss different ideas, themes, art and creativity of the cinema. It is a space for those who share the same interest of the big-screen, an open space talk about any and all things that makes a film - directing, the plot, story telling, cinematography, music, the acting, the script writing, etc.
 
-## Codeanywhere Reminders
+The website aims to create a community, it will act as the main touch point, especially for new members for how to participate, which film to watch, where and when to meet and also for users to receive official updates and news.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## Features
+There are 5 main aspects to the website;
 
-`python3 -m http.server`
+What the club is
+- The website provides tha aim of the club and what it is about.
+- How to join
+- The film topic for discussion in the current week.
+- Location for where and and when to meet
+- Newsletter sign-up for automatic email updates
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- Focusing on who this website is for
+The primary target audience for the 
 
-`http_server`
+- what it is that they want to achieve
+- 
+- how your project is the best way to help them achieve these things.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
-
+### Existing Features
