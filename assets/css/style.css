@@ -209,6 +209,14 @@ nav {
     text-align: center;
 }
 
+#next {
+    padding-top:25px;
+    padding-bottom: 5px;
+    font-size: 12px;
+    font-weight: 100;
+    text-transform: none;
+}
+
 #button {
     background-color: rgb(255, 0, 89);
     border: none;
@@ -500,10 +508,18 @@ footer {
         padding: 10px 20px;
         font-size: 20px;
     }
+    
+    #next {
+        padding-top: 30px;
+        padding-bottom: 20px;
+        font-size: 20px;
+        text-transform: none;
+    }
 
+    /*Meeting Place*/
     #meeting h2 {
         font-size: 30px;
-        padding-top: 60px;
+        padding-top: 100px;
         padding-bottom: 16px;
     }
     
@@ -619,10 +635,18 @@ footer {
         padding-top: 8%;
     }
 
+    /*easysteps*/
     #easysteps{
         padding-bottom: 0;
     }
+
+    #next {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        font-size: 25px;
+    }
     
+    /*Meeting*/
     #meeting h2 {
         font-size: 35px;
     }
@@ -631,11 +655,11 @@ footer {
         font-size: 25px;
     }
 
-    #film-img{
-        height:700px;
+    /*Film page*/
+    #film-img {
+        height: 700px;
     }
 
-    /*Film page*/
     #film-img h3 {
         font-size: 30px;
         padding-top: 150px;
