@@ -306,35 +306,38 @@ nav {
 }
 
 #meet{
-    padding:60px 20px;
     text-align:center;
+    padding: 0px 50px;
 }
 
 #meet h2{
     font-size: 20px 1rem;
     text-align: center;
+    Padding-top:50px;
     padding-bottom:20px;
 }
 
 #meet h4 {
     font-size: 15px;
-    paddiing-top: 500px;
+    padding:0px 10px;
 }
 
 #meet p {
     color: black;
     background-color: white;
+    box-shadow: 5px 5px 5px #242424;
     font-size: 12px;
     letter-spacing: 0.1px;
     text-shadow:none;
-    padding: 5px 0px;
-    margin: 0 20px;
+    padding: 5px 5px;
+    margin: 10px 10px;
 }
 
 #meet i {
     font-size: 30px;
     padding-top: 20px;
     color:white;
+    padding-bottom:25px;
 }
 
 #newsletter {
@@ -497,21 +500,21 @@ footer {
         padding: 10px 20px;
         font-size: 20px;
     }
-    
-    #meeting h2{
+
+    #meeting h2 {
         font-size: 30px;
-        padding-top:60px;
-        padding-bottom:16px;
+        padding-top: 60px;
+        padding-bottom: 16px;
     }
     
     #meeting p {
         font-size: 20px;
-        padding-bottom:20px;
+        padding-bottom: 20px;
     }
-
+    
     #meeting i {
-        padding-bottom:20px;
-        font-size:40px;
+        padding-bottom: 20px;
+        font-size: 40px;
     }
 
     /*Film page*/
@@ -543,23 +546,60 @@ footer {
     /*About Page*/
     #who h2 {
         padding-top: 150px;
-        font-size: 30px 1rem;
+        font-size: 30px;
         }
 
     #who p {
-        padding: 30px 200px;
-        font-size: 1rem;
-        letter-spacing: 0.6px;
+        padding: 30px 100px;
+        font-size: 16px;
+        letter-spacing: 1px;
         }
 
-    #meet h2{
-        font-size: 30px 1rem;
-        padding-bottom:1rem;
-        }
+    #meet {
+        padding: 0 150px;
+    }
+
+    #meet h2 {
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 25px;
+    }
+
+    #meet h4 {
+        font-size: 20px;
+        padding-bottom: 0px;
+        margin:0;
+    }
 
     #meet p {
-        font-size: 1rem;
+        font-size: 16px;
         letter-spacing: 0.6px;
+    }
+
+    #meet i {
+        padding-bottom: 50px;
+        font-size: 40px;
+    }
+
+    #newsletter h2 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+
+    #newsletter p {
+        font-size: 14px;
+        letter-spacing: 0.5px;
+        padding-bottom: 10px;
+    }
+
+    #form {
+        font-size: 16px;
+        padding-top:10px;
+    }
+
+    #form input {
+        margin-bottom: 10px;
+        align: right;
     }
 }
 
@@ -592,7 +632,7 @@ footer {
     }
 
     #film-img{
-        height:640px;
+        height:700px;
     }
 
     /*Film page*/
@@ -624,23 +664,57 @@ footer {
     /*About Page*/
     #who h2 {
         padding-top: 150px;
-        font-size: 30px 1rem;
+        font-size: 40px;
         }
 
     #who p {
-        padding: 30px 200px;
-        font-size: 1rem;
-        letter-spacing: 0.6px;
+        padding: 30px 100px;
+        font-size: 18px;
+        letter-spacing: 0.9px;
         }
+
+    #meet {
+        padding: 0 220px;
+    }
 
     #meet h2{
-        font-size: 30px 1rem;
-        padding-bottom:1rem;
-        }
+        font-size: 25px;
+    }
+
+    #meet h2 {
+        font-size: 40px;
+        padding-bottom: 30px;
+    }
 
     #meet p {
-        font-size: 1rem;
-        letter-spacing: 0.6px;
+        font-size: 18px;
+        letter-spacing: 0.7px;
+    }
+
+    #newsletter h2 {
+        font-size: 40px;
+        padding-bottom: 15px;
+    }
+    
+    #newsletter p {
+        font-size: 18px;
+        letter-spacing: 0.8px;
+        padding-bottom: 25px;
+    }
+    
+    #form {
+        font-size: 18px;
+        padding-top: 10px;
+    }
+    
+    #form input {
+        margin-bottom: 15px;
+    }
+
+    .news-button {
+        margin-top: 20px;
+        font-size: 18px;
+        padding: 8px 8px;
     }
 }
 
@@ -693,18 +767,18 @@ footer {
 
     #who p {
         padding: 20px 90px;
-        letter-spacing: 0.7px;
-        padding-bottom:0px;
+        letter-spacing: 1px;
     }
 
     #meet{
         display: inline-block;
-        width:50%;
-        }
+        width: 50%;
+        padding: 0 80px;
+    }
         
     #meet h2{
         font-size: 35px;
-        padding-top: 0px;
+        padding-top: 60px;
         padding-bottom:20px;
     }
 
