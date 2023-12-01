@@ -23,4 +23,23 @@ There are 5 main aspects to the website;
 - what it is that they want to achieve
 - how your project is the best way to help them achieve these things.
 
-### Nav Bar
+### [Nav Bar] ()
+
+The nav bar always remain fixed and are replicated on at the top of every page for easy navigation for the user on the site to avoid uneeded scrolling and quick navigation. The bar has lowered opacity for users to see what is hiding behind the bar.
+
+The bar underlines which page the user is viewing. The nav bar is responsive - for smaller screens the menu items turns into a burger where this can be toggled for the drop down menu.
+
+The nav bar also contains the logo which has a hyper which always takes the user back to the home page as a user would expect.
+
+_Insert Nav bar image_
+
+## [Landing Page] ()
+
+The landing page welcomes a user with a hero image of palm trees Hollywood under a big blue sky, home to big film studios. The cover text over the hero image is to entice the user to explore and give the user a taste of what the website is about.
+
+There is a call to action on the hero image for a user to use which will take them further down the page which give information on how to join the club.
+
+_Insert Hero Image_
+
+## [The Club Sextion]
+
