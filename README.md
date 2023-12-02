@@ -42,7 +42,7 @@ The user will be able to easily to understand the purpose of the film club, what
 
 _Instert The Club Section_
 
-### [Easy Steps Section] ()
+### [Easy Steps Section] (/workspaces/friday-film-club/media/easysteps.png)
 This section provides the user information on how to join the club. This is broken down into 3 easy steps to demonstrate how simple it is to join to make the club more welcoming and removes doubts of complexity for a new joiner.
 
 _Insert Easy Steps Section_
