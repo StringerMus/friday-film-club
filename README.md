@@ -105,4 +105,10 @@ When click the 'Film' link on the navigation bar, this takes me to the film page
 ### About Page
 When i click the 'About' link on the navigation bar, the link takes me to the About page. On this page I am provided with additional background on the club to gain a better understanding of the values of the Friday Film Club and their aims. I am also reminded of the meeting place for the club to ensure I do not forget.
 
-On right side of page there is a form for me to fill in if I would like to receive newsletter updates from the Friday Film Club. If I do not fill in my name I receive notification advising I need to fill the section in, the same happens in the email address field. If I dont provide an email address in email input, I am reminded an email address is needed to be filled in. Finally when I fill in the fields appropiately and submit the form by clicking the 'Sign me up!', this takes me to a page adivisng I have submitted the form.
+On right side of page there is a form for me to fill in if I would like to receive newsletter updates from the Friday Film Club. If I do not fill in my name I receive notification advising I need to fill the section in, the same happens in the email address field. If I dont provide an email address in email input, I am reminded an email address is needed to be filled in. Finally when I fill in the fields appropiately and submit the form by clicking the 'Sign me up!', this open a new tab takes me to a page adivisng I have submitted the form.
+
+When click the Friday Film Club logo on the nav bar it takes me back to home page.
+
+If I shrink the screen size (992px, 768px, 320px) the website is responsive as the sizes of the image, text and all elements change to fit the screen size. The menu on the nav bar turns into a burger icon & hides the menu option. When the burger icon is clicked a dropdown appears with the menu link, then collapse back into burger when a menu option is selected.
+
+On the about page if the screen is shrunk, the 'Who we are', 'Meet us here' and 'Newsletter' sections stack up as the screen will no longer be wide enough to display the elements side by side.
