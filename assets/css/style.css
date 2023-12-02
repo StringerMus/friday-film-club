@@ -121,6 +121,30 @@ nav {
     justify-content: center;
     align-items: center;
     padding-top: 130px;
+    padding-bottom: 20px;
+}
+
+#cover-link {
+    color: white;
+    text-decoration: underline;
+    font-size: 12px;
+    background-color: rgb(255, 0, 89);
+    text-align: center;
+    padding: 5px 5px;
+    margin-top: 10px;
+    border-radius: 5%;
+    box-shadow: 5px 5px 5px black;
+}
+
+#film-link {
+    color: white;
+    text-decoration: underline;
+    font-size: 12px;
+    background-color: rgb(255, 0, 89);
+    text-align: center;
+    padding: 0;
+    margin:0;
+    border-radius: 5%;
 }
 
 #cover-text h2 {
@@ -211,20 +235,7 @@ nav {
     font-size: 12px;
     font-weight: 100;
     text-transform: none;
-}
 
-.button {
-    text-decoration: none;
-    color: white;
-    background-color: rgb(255, 0, 89);
-    border: none;
-    border-radius: 5%;
-    margin-top:10px;
-    padding: 5px 10px;
-    text-align: center;
-    display: inline-block;
-    font-size: 14px;
-    box-shadow: 2px 3px 5px #000000;
 }
 
 #meeting{
@@ -458,6 +469,10 @@ footer {
         font-size: 19px;
     }
 
+    #cover-link {
+        font-size: 20px;
+    }
+
     /*Join Us Section*/
     #why {
         height: 1000px;
@@ -497,24 +512,13 @@ footer {
     #step3 {
         padding: 0 200px;
         padding-top: 30px;
-        padding-bottom: 60px;
-    }
-    
-    #button {
-        padding: 10px 20px;
-        font-size: 20px;
-    }
-    
-    #next {
-        padding-top: 30px;
-        padding-bottom: 200px;
-        font-size: 20px;
+        padding-bottom: 0px;
     }
 
     /*Meeting Place*/
     #meeting h2 {
         font-size: 30px;
-        padding-top: 100px;
+        padding-top: 30px;
         padding-bottom: 16px;
     }
     
@@ -620,6 +624,11 @@ footer {
         font-size: 40px;
         padding-top: 250px;
         }
+
+    #cover-link {
+        font-size: 25px;
+        padding: 15px 15px;
+    }
     
     /*Join Us Section*/
     /*The Club*/

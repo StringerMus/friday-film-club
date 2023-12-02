@@ -93,9 +93,7 @@ There is a 'Join Us! 'button underneath the cover text, once clicked it takes me
 
 When I scroll up I can see 'The Club' section which provdes me inforamtion on the purpose of the Friday Film Club and how I will benefit by joining.
 
-When scoll back down, underneath the Easy Steps section there is a button which will take me to the Film page if clicked so I can find out which film the club will be reviewing.
-
-Underneath the button I can see information on where the Friday Film club meetings take place, at what time and when.
+Underneath the Easy Steps I can see information on where the Friday Film club meetings take place, at what time and when.
 
 The page finishes with a header to external links on a new tab to the social media pages of the Friday Film Club where I will be able to view the clubs social media pages. When I hover over the buttons they change colour to indicate which icon my cursor is on.
 
@@ -115,3 +113,4 @@ On the about page if the screen is shrunk, the 'Who we are', 'Meet us here' and 
 
 ### Validator Testing
 HTML
+CSS - No errors have been identified via the jigsaw CSS Validator <https://jigsaw.w3.org/css-validator/validator>
