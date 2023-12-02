@@ -20,7 +20,7 @@ There are 5 main aspects to the website;
 
 ## Features
 
-### [Nav Bar](/workspaces/friday-film-club/media/header.png)
+### [Nav Bar](https://github.com/StringerMus/friday-film-club/blob/main/media/header.png)
 
 The nav bar always remain fixed and are replicated on at the top of every page for easy navigation for the user on the site to avoid uneeded scrolling and quick navigation. The bar has lowered opacity for users to see what is hiding behind the bar.
 
@@ -30,31 +30,31 @@ The nav bar also contains the logo which has a hyper which always takes the user
 
 _Insert Nav bar image_
 
-### [Landing Page] ()
+### [Landing Page](https://github.com/StringerMus/friday-film-club/blob/main/media/landingpage.png)
 The landing page welcomes a user with a hero image of palm trees Hollywood under a big blue sky, home to big film studios. The cover text over the hero image is to entice the user to explore and give the user a taste of what the website is about.
 
 There is a call to action on the hero image for a user to use which will take them further down the page which give information on how to join the club.
 
 _Insert Hero Image_
 
-### [The Club Section] ()
+### [The Club Section](https://github.com/StringerMus/friday-film-club/blob/main/media/the-club.png)
 The Club section introduces the user to the film club to what the club is about and it's aim, also providing the benefit of joining the club.
 
 The user will be able to easily to understand the purpose of the film club, what the club is proposing to the user and how they will benefit from joining the club.
 
 _Instert The Club Section_
 
-### [Easy Steps Section] (/workspaces/friday-film-club/media/easysteps.png)
+### [Easy Steps Section](https://github.com/StringerMus/friday-film-club/blob/main/media/easysteps.png)
 This section provides the user information on how to join the club. This is broken down into 3 easy steps to demonstrate how simple it is to join to make the club more welcoming and removes doubts of complexity for a new joiner.
 
 _Insert Easy Steps Section_
 
-### [Meeting Place] ()
+### [Meeting Place](https://github.com/StringerMus/friday-film-club/blob/main/media/meetingplace.png)
 This section gives the user information on where to meet with the club and the time. This has been included in the Home page following the link to the film to ensure the user sees the time and location before advancing to the film page in the event a user leaves the site after viewing the film page.
 
 _Insert Meeting Section_
 
-### [Footer] ()
+### [Footer](https://github.com/StringerMus/friday-film-club/blob/main/media/footer.png)
 The footer section provides the user links to the social media pages of the film club which will open the link in a new tab to ensure the current page is not lost and the user can return where they left off.
 
 Social media links are useful as it provides the user the option of interacting with the film club via another platform other than the Friday Film Club Website.
@@ -63,12 +63,13 @@ The social media icons also have a hover attribute making the footer slightly mo
 
 _Insert Footer_
 
-### [Film Page] ()
+### [Film Page](https://github.com/StringerMus/friday-film-club/blob/main/media/film-page.png)
 This page is for user to find out and be updated on which film has been selected the subject for the film club to discuss at the next meeting. It contains an image of the film to advertise the film to the user and encourage them to watch, information of the name of the film and brief information of the film as some users may be interested in the director and writers of a movie.
 
 _Insert Film page_
 
-### [About Page] ()
+### [About Page](https://github.com/StringerMus/friday-film-club/blob/main/media/about-page.png)(<https://github.com/StringerMus/friday-film-club/blob/main/media/newsletter.png>)
+
 The page provides a bit more information on the Friday Film Club and a background on how the club was formed to make the club seem more transparent to users and more welcoming.
 
 The page includes the meeting place again as this information is important for users to be able to participate and join the club, also ensure the user knows where and when the meetings take place.
