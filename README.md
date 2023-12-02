@@ -1,6 +1,7 @@
 # Friday Film Club
 
 [Friday Film Club](https://stringermus.github.io/friday-film-club)
+()
 
 Friday Film Club is for the film enthusiasts and those who want to discuss different ideas, themes, art and creativity of the cinema. It is a space for those who share the same interest of the big-screen, an open space talk about any and all things that makes a film - directing, the plot, story telling, cinematography, music, the acting, the script writing, etc.
 
@@ -43,8 +44,6 @@ _Instert The Club Section_
 
 ### [Easy Steps Section] ()
 This section provides the user information on how to join the club. This is broken down into 3 easy steps to demonstrate how simple it is to join to make the club more welcoming and removes doubts of complexity for a new joiner.
-
-The 3 steps are quickly followed by a link to the next film which has been selected for the weekly discussion. The link prompts the user to further explore and encourage a user to continue their journey through the website and gaining information in a step closer to joining the club.
 
 _Insert Easy Steps Section_
 
