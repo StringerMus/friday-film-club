@@ -112,5 +112,40 @@ If I shrink the screen size (992px, 768px, 320px) the website is responsive as t
 On the about page if the screen is shrunk, the 'Who we are', 'Meet us here' and 'Newsletter' sections stack up as the screen will no longer be wide enough to display the elements side by side.
 
 ### Validator Testing
-HTML
+HTML - No errors or warnings to show https://validator.w3.org/nu/
 CSS - No errors have been identified via the jigsaw CSS Validator <https://jigsaw.w3.org/css-validator/validator>
+
+## Deployment
+I have deplyed the site using GitHub's Pages
+- Within the friday-film-club repository, I went to settings then into the Pages tab. Under branch I selected main and the root folder.
+- The page refreshed stating the site is live at <https://stringermus.github.io/friday-film-club/>
+
+## Credits
+
+In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
+
+You can break the credits section up into Content and Media, depending on what you have included in your project.
+
+### Content
+I have used the following sources to help me with my coding;
+
+Text-shadow
+<https://www.w3schools.com/cssref/css3_pr_text-shadow.php>
+
+Underline text
+<https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration>
+
+Align text to bottom
+<https://stackoverflow.com/questions/585945/how-to-align-content-of-a-div-to-the-bottom>
+
+Code Institute Love Running Project
+
+Code Institute Readme and GitHub template
+
+
+### Media
+Photos used in this website have been sourced from Unsplash
+
+Icons have been soureced from Font Awesome
+
+Fonts have been sourced from Google Fonts
