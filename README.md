@@ -85,6 +85,8 @@ Also more information can be added to the page by providing the user a synopsis 
 
 ## Testing
 ### Home Page
+Testing the website on a 1200px wide screen.
+
 Arriving at the website I am greeted by the hero image and cover text - a slogan that represents the club, with the locked navigation bar at the top containing the Friday Film Club Logo and navigation page links.
 
 There is a 'Join Us! 'button underneath the cover text, once clicked it takes me a bit further down the page to Easy Steps section providing me inforamtion on how to join the club in 3 easy steps.
@@ -101,4 +103,6 @@ The page finishes with a header to external links on a new tab to the social med
 When click the 'Film' link on the navigation bar, this takes me to the film page. I can now see which film has been selected to be reviewed for the next club meeting. I am presented with an background image of the film to entice me to watch and a caption of information on the film which could interest me.
 
 ### About Page
+When i click the 'About' link on the navigation bar, the link takes me to the About page. On this page I am provided with additional background on the club to gain a better understanding of the values of the Friday Film Club and their aims. I am also reminded of the meeting place for the club to ensure I do not forget.
 
+On right side of page there is a form for me to fill in if I would like to receive newsletter updates from the Friday Film Club. If I do not fill in my name I receive notification advising I need to fill the section in, the same happens in the email address field. If I dont provide an email address in email input, I am reminded an email address is needed to be filled in. Finally when I fill in the fields appropiately and submit the form by clicking the 'Sign me up!', this takes me to a page adivisng I have submitted the form.
