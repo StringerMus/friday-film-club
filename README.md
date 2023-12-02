@@ -1,7 +1,7 @@
 # Friday Film Club
 
 [Friday Film Club](https://stringermus.github.io/friday-film-club)
-(https://github.com/StringerMus/friday-film-club/blob/main/media/responsive.png)
+[Responsive Screenshot](https://github.com/StringerMus/friday-film-club/blob/main/media/responsive.png)
 
 Friday Film Club is for the film enthusiasts and those who want to discuss different ideas, themes, art and creativity of the cinema. It is a space for those who share the same interest of the big-screen, an open space talk about any and all things that makes a film - directing, the plot, story telling, cinematography, music, the acting, the script writing, etc.
 
