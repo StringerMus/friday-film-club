@@ -63,5 +63,20 @@ The footer section provides the user links to the social media pages of the film
 
 Social media links are useful as it provides the user the option of interacting with the film club via another platform other than the Friday Film Club Website.
 
+The social media icons also have a hover attribute making the footer slightly more interactive and indicate to the user where they are hovering with a mouse on a desktop.
+
 _Insert Footer_
 
+## [Film Page] ()
+This page is for user to find out and be updated on which film has been selected the subject for the film club to discuss at the next meeting. It contains an image of the film to advertise the film to the user and encourage them to watch, information of the name of the film and brief information of the film as some users may be interested in the director and writers of a movie.
+
+_Insert Film page_
+
+## [About Page] ()
+The page provides a bit more information on the Friday Film Club and a background on how the club was formed to make the club seem more transparent to users and more welcoming.
+
+The page includes the meeting place again as this information is important for users to be able to participate and join the club, also ensure the user knows where and when the meetings take place.
+
+Finally there is a form for the users new or current members to sign up on where users will be able to receive updates to their emails and ensuring regular contact with the Friday Film Club.
+
+_Insert About page_
