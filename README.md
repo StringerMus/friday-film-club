@@ -1,6 +1,6 @@
 # Friday Film Club
 
-[Friday Film Club] (https://stringermus.github.io/friday-film-club/)
+[Friday Film Club](https://stringermus.github.io/friday-film-club)
 
 Friday Film Club is for the film enthusiasts and those who want to discuss different ideas, themes, art and creativity of the cinema. It is a space for those who share the same interest of the big-screen, an open space talk about any and all things that makes a film - directing, the plot, story telling, cinematography, music, the acting, the script writing, etc.
 
@@ -18,11 +18,6 @@ There are 5 main aspects to the website;
 - Newsletter sign-up for automatic email updates
 
 ## Features
-
-- Focusing on who this website is for
-- what it is that they want to achieve
-- how your project is the best way to help them achieve these things.
-
 ### [Nav Bar] ()
 The nav bar always remain fixed and are replicated on at the top of every page for easy navigation for the user on the site to avoid uneeded scrolling and quick navigation. The bar has lowered opacity for users to see what is hiding behind the bar.
 
@@ -83,9 +78,27 @@ The page changes layout at 1200px wide to make use of the space.
 
 _Insert About page_
 
-### Featre Left to Implement
+### Features Left to Implement
 On the film page additonal features can be added of an external link to a data base website like IMDB to give users easy access to find out addtional information on a film that is subject to review.
 
 Also more information can be added to the page by providing the user a synopsis of the film, giving the user more information what the film is about before watching.
 
 ## Testing
+### Home Page
+Arriving at the website I am greeted by the hero image and cover text - a slogan that represents the club, with the locked navigation bar at the top containing the Friday Film Club Logo and navigation page links.
+
+There is a 'Join Us! 'button underneath the cover text, once clicked it takes me a bit further down the page to Easy Steps section providing me inforamtion on how to join the club in 3 easy steps.
+
+When I scroll up I can see 'The Club' section which provdes me inforamtion on the purpose of the Friday Film Club and how I will benefit by joining.
+
+When scoll back down, underneath the Easy Steps section there is a button which will take me to the Film page if clicked so I can find out which film the club will be reviewing.
+
+Underneath the button I can see information on where the Friday Film club meetings take place, at what time and when.
+
+The page finishes with a header to external links on a new tab to the social media pages of the Friday Film Club where I will be able to view the clubs social media pages. When I hover over the buttons they change colour to indicate which icon my cursor is on.
+
+### Film Page
+When click the 'Film' link on the navigation bar, this takes me to the film page. I can now see which film has been selected to be reviewed for the next club meeting. I am presented with an background image of the film to entice me to watch and a caption of information on the film which could interest me.
+
+### About Page
+
