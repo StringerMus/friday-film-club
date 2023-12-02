@@ -215,7 +215,7 @@ nav {
     text-transform: none;
 }
 
-.class {
+#button {
     background-color: rgb(255, 0, 89);
     border: none;
     border-radius: 5%;
