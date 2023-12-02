@@ -1,7 +1,7 @@
 # Friday Film Club
 
 [Friday Film Club](https://stringermus.github.io/friday-film-club)
-()
+(https://github.com/StringerMus/friday-film-club/blob/main/media/responsive.png)
 
 Friday Film Club is for the film enthusiasts and those who want to discuss different ideas, themes, art and creativity of the cinema. It is a space for those who share the same interest of the big-screen, an open space talk about any and all things that makes a film - directing, the plot, story telling, cinematography, music, the acting, the script writing, etc.
 
@@ -13,12 +13,14 @@ The main goal of the website is to create a community where ideas for film creat
 
 There are 5 main aspects to the website;
 - The website provides tha aim of the club and what it is about.
-- How to join
+- How to join the club
 - The film topic for discussion in the current week.
 - Location for where and and when to meet
 - Newsletter sign-up for automatic email updates
 
 ## Features
+
+Please click the links to see the images
 
 ### [Nav Bar](https://github.com/StringerMus/friday-film-club/blob/main/media/header.png)
 
@@ -68,7 +70,7 @@ This page is for user to find out and be updated on which film has been selected
 
 _Insert Film page_
 
-### [About Page](https://github.com/StringerMus/friday-film-club/blob/main/media/about-page.png)(<https://github.com/StringerMus/friday-film-club/blob/main/media/newsletter.png>)
+### [About Page](https://github.com/StringerMus/friday-film-club/blob/main/media/about-page.png)
 
 The page provides a bit more information on the Friday Film Club and a background on how the club was formed to make the club seem more transparent to users and more welcoming.
 
