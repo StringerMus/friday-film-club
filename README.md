@@ -19,7 +19,9 @@ There are 5 main aspects to the website;
 - Newsletter sign-up for automatic email updates
 
 ## Features
-### [Nav Bar] ()
+
+### [Nav Bar](/workspaces/friday-film-club/media/header.png)
+
 The nav bar always remain fixed and are replicated on at the top of every page for easy navigation for the user on the site to avoid uneeded scrolling and quick navigation. The bar has lowered opacity for users to see what is hiding behind the bar.
 
 The bar underlines which page the user is viewing. The nav bar is responsive - for smaller screens the menu items turns into a burger where this can be toggled for the drop down menu.
