@@ -860,8 +860,12 @@ footer {
 
 /*S Mobile (320px and up)*/
 @media screen and (min-width:320px) {
+    #film-img{
+        height:730px;
+    }
+    
     #film-img p {
-        bottom: 40px;
+        bottom: 100px;
     }
 }
 
