@@ -113,11 +113,6 @@ nav {
     position:relative;
     }
 
-.join-link {
-    text-decoration: none;
-    color: white;
- }
-
 #cover-text {
     text-align: center;
     padding: 15px;
@@ -220,7 +215,7 @@ nav {
     text-transform: none;
 }
 
-#button {
+.class {
     background-color: rgb(255, 0, 89);
     border: none;
     border-radius: 5%;
